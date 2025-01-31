@@ -2,7 +2,7 @@
 
 A snake game and snake ai coded with all the logic.
 
-To be used with the Window library: https://github.com/NubSh0t/Window
+To be used with the Window library: https://github.com/NubSh0t/Pyopengl-2d-wrapper-library
 
 (for the ai) Needs the Neural Network Library too: https://github.com/NubSh0t/Neural-Network
 
